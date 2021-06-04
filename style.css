@@ -1,0 +1,36 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('background.jpg');
+}
+
+.container{
+    background-color: #fff;
+    padding: 50px;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;;
+}
+
+.eve{
+    font-weight: bolder;
+    margin: auto;
+    text-align: left;
+    background-color: aqua;
+    width: 60%;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    line-height: 30px;
+}
+
+.date{
+    background-color: yellow;
+    text-align: center;
+    font-weight: bolder;
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 5px;
+
+}
